@@ -36,7 +36,7 @@
               <span class="desc">{{o.licitacion_oferta_empresa}}</span>
             </div>
             <div class="col-sm-3" ng-if="o.monto_contrato">
-              <span class="title">{{ i18n.investmentAmount }}:</span>
+              <span class="title">{{ i18n.contractAmount }}:</span>
               <span class="desc">{{o.monto_contrato | currency}}</span>
             </div>
           </div>
@@ -57,7 +57,7 @@
             </div>
             <div class="col-sm-2" ng-if="o.comuna">
               <span class="title">{{ i18n.commune }}:</span>
-              <span class="desc">{{ i18n.commune }} {{o.comuna}}</span>
+              <span class="desc">{{o.jurisdiccion}}</span>
             </div>
             <div class="col-sm-2" ng-if="o.etapa">
               <span class="title">{{ i18n.stage }}:</span>

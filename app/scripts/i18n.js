@@ -1,10 +1,10 @@
 window._i18n = {
   loading: "Cargando",
 
-  title: "Explorador de obras de SITE_NAME",
+  title: "Explorador de Obras Públicas de la Provincia de San Juan",
   subtitle: "Esta es la página de prueba para visualizar las obras de SITE_NAME. Click para ver página.",
 
-  homeTitle: "Observatorio de Obras",
+  homeTitle: "OBSERVATORIO DE OBRAS",
   homeButton: "Home",
   searchButton: "Buscador",
 
@@ -12,18 +12,20 @@ window._i18n = {
   seeJurisdictionButton: "Ver jurisdicción",
   worksWithoutJurisdictionTitle: "Obras sin jurisdicción",
 
-  homeIframeTitle: "Demo iframe: ",
+  homeIframeTitle: "Buscador de Obras: ",
   closeButton: "Cerrar",
+
+  obrasDestacadasResumen: "CONOCE LAS OBRAS DESTACADAS",
 
   noResults: "No hay resultados para los filtros aplicados",
 
   plannedWork: "Obra",
   company: "Empresa",
-  investmentAmount: "Monto inversión",
+  investmentAmount: "MONTO INVERSION",
   description: "Descripción",
   responsableArea: "Área Responsable",
   type: "Tipo",
-  commune: "Comuna",
+  commune: "Departamento",
   stage: "Etapa",
   moreInformation: "Más información",
   environment: "Entorno",
@@ -40,6 +42,7 @@ window._i18n = {
   featuredWork: "Obra destacada",
   start: "Inicio",
   end: "Fin",
+  avance: "Avance",
   workType: "Tipo de obra",
   contractType: "Tipo de contratación",
   contractNumber: "N° de contratación",
@@ -49,7 +52,7 @@ window._i18n = {
   numberOfBeneficiaries: "Cantidad de Beneficiaros",
   people: "personas",
   workforce: "Mano de Obra",
-  contractAmount: "Monto Contrato",
+  contractAmount: "Monto Ejecutado",
   address: "Dirección",
   updatedAmount: "Monto Actualizado",
   financer: "Financiador",
@@ -60,11 +63,12 @@ window._i18n = {
   plannedWorks: "obras",
   ofTheTotal: "del total",
   all: "TODAS",
-  filterByGovernmentArea: "Filtrar por área de gobierno",
+  all2: "TODOS",
+  filterByGovernmentArea: "FILTRAR POR AREA DE GOBIERNO",
 
-  totalWorks: "Total de obras",
-  ended: "Finalizadas",
-  employees: "Empleados",
+  totalWorks: "TOTAL DE OBRAS",
+  ended: "FINALIZADAS",
+  employees: "EMPLEADOS",
 
   upTo50Millions: "Hasta 50 millones",
   from50To100Millions: "50  a 100 millones",

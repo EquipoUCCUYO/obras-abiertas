@@ -1,11 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="130px" height="115px" viewBox="0 0 130 115" enable-background="new 0 0 130 115" xml:space="preserve">
-<path fill="#7874B2" d="M27.935,98.542V41.957c0-2.139,1.646-3.773,3.771-3.773h15.102V23.078h37.731v15.105h15.079
-	c2.129,0,3.774,1.635,3.774,3.773v56.585h-30.19v-18.85H58.103v18.85H27.935 M54.342,30.639v22.64h7.541v-7.544h7.532v7.544h7.545
-	v-22.64h-7.545v7.545h-7.532v-7.545H54.342 M35.466,91.007h15.102V79.692H35.466V91.007z M35.466,72.132h15.102V60.813H35.466
-	V72.132z M80.736,91.007h15.098V79.692H80.736V91.007z M80.736,72.132h15.098V60.813H80.736V72.132z M58.103,72.132h15.099V60.813
-	H58.103V72.132z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="salud.svg"
+   id="svg1625"
+   version="1.1"
+   viewBox="0 0 75.76 75.76">
+  <metadata
+     id="metadata1629">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg1625"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="37.880001"
+     inkscape:cx="37.880001"
+     inkscape:zoom="7.6293556"
+     showgrid="false"
+     id="namedview1627"
+     inkscape:window-height="1028"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs1607">
+    <style
+       id="style1605">.cls-1{fill:#727272;}</style>
+  </defs>
+  <g
+     style="fill:#f1ad3c;fill-opacity:1"
+     data-name="Capa 2"
+     id="Capa_2">
+    <g
+       style="fill:#f1ad3c;fill-opacity:1"
+       data-name="Capa 1"
+       id="Capa_1-2">
+      <path
+         style="fill:#f1ad3c;fill-opacity:1"
+         id="path1609"
+         d="M29.45,40.72a1.11,1.11,0,0,0,1.11-1.11V27.67a1.11,1.11,0,0,0-1.11-1.11h-6a1.11,1.11,0,0,0-1.11,1.11V39.61a1.11,1.11,0,0,0,1.11,1.11ZM24.54,28.78h3.8V38.5h-3.8Z"
+         class="" />
+      <path
+         style="fill:#f1ad3c;fill-opacity:1"
+         id="path1611"
+         d="M34.87,40.72h6A1.11,1.11,0,0,0,42,39.61V27.67a1.11,1.11,0,0,0-1.11-1.11h-6a1.11,1.11,0,0,0-1.11,1.11V39.61a1.11,1.11,0,0,0,1.11,1.11ZM36,28.78h3.8V38.5H36Z"
+         class="cls-1" />
+      <path
+         style="fill:#f1ad3c;fill-opacity:1"
+         id="path1613"
+         d="M14,57.9a1.1,1.1,0,0,0,1.11-1.11V44.86A1.1,1.1,0,0,0,14,43.75H8a1.1,1.1,0,0,0-1.11,1.11V56.79A1.1,1.1,0,0,0,8,57.9ZM9.14,46h3.79v9.71H9.14Z"
+         class="cls-1" />
+      <path
+         style="fill:#f1ad3c;fill-opacity:1"
+         id="path1615"
+         d="M61.72,57.9h6a1.1,1.1,0,0,0,1.11-1.11V44.86a1.1,1.1,0,0,0-1.11-1.11h-6a1.1,1.1,0,0,0-1.11,1.11V56.79a1.1,1.1,0,0,0,1.11,1.11ZM62.83,46h3.79v9.71H62.83Z"
+         class="cls-1" />
+      <path
+         style="fill:#f1ad3c;fill-opacity:1"
+         id="path1617"
+         d="M46.31,40.72h6a1.11,1.11,0,0,0,1.11-1.11V27.67a1.11,1.11,0,0,0-1.11-1.11h-6a1.11,1.11,0,0,0-1.11,1.11V39.61a1.11,1.11,0,0,0,1.11,1.11Zm1.11-11.94h3.8V38.5h-3.8Z"
+         class="cls-1" />
+      <path
+         style="fill:#f1ad3c;fill-opacity:1"
+         id="path1619"
+         d="M36.77,11.85a1.11,1.11,0,1,0,2.22,0V9.56h2.29a1.11,1.11,0,0,0,0-2.22H39V5a1.11,1.11,0,1,0-2.22,0v2.3H34.48a1.11,1.11,0,1,0,0,2.22h2.29Z"
+         class="cls-1" />
+      <path
+         style="fill:#f1ad3c;fill-opacity:1"
+         id="path1621"
+         d="M74.65,32.31a1.11,1.11,0,0,0,1.11-1.11v-4a1.11,1.11,0,0,0-1.11-1.11H67.92a1.11,1.11,0,0,0,0,2.22h5.62v1.78h-16V28.31h4.88a1.11,1.11,0,0,0,0-2.22H57.51v-5.2h1.71a1.11,1.11,0,0,0,1.11-1.11v-4a1.11,1.11,0,0,0-1.11-1.11h-9.9V1.11A1.11,1.11,0,0,0,48.21,0H27.55a1.11,1.11,0,0,0-1.11,1.11V14.67h-9.9a1.11,1.11,0,0,0-1.11,1.11v4a1.11,1.11,0,0,0,1.11,1.11h1.71v5.2H1.11A1.11,1.11,0,0,0,0,27.2v4a1.11,1.11,0,0,0,1.11,1.11H1.6v7.3a1.11,1.11,0,0,0,2.22,0v-7.3H18.25v37H3.82V45.12a1.11,1.11,0,0,0-2.22,0V69.34H1.11A1.11,1.11,0,0,0,0,70.45v4.2a1.11,1.11,0,0,0,1.11,1.11H74.65a1.11,1.11,0,0,0,1.11-1.11v-4.2a1.11,1.11,0,0,0-1.11-1.11h-.49v-37Zm-57-15.42H34.9a1.11,1.11,0,0,0,0-2.22H28.66V2.22H47.1V14.67H41.18a1.11,1.11,0,1,0,0,2.22H58.11v1.78H17.65ZM2.22,28.31h16v1.78h-16Zm18.25-7.42H55.29V69.34H48.9V51.79a1.11,1.11,0,0,0-1.11-1.11H28a1.11,1.11,0,0,0-1.11,1.11V69.34H20.47Zm8.61,48.45V52.9h7.69V69.34ZM39,52.9h7.69V69.34H39ZM73.54,73.54H2.22v-2H73.54Zm-1.6-4.2H57.51v-37H71.94v37Z"
+         class="cls-1" />
+    </g>
+  </g>
 </svg>

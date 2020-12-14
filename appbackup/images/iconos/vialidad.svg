@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="vialidad.svg"
+   id="svg4620"
+   version="1.1"
+   viewBox="0 0 70.08 70.08">
+  <metadata
+     id="metadata4624">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg4620"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="35.040001"
+     inkscape:cx="35.040001"
+     inkscape:zoom="8.2477167"
+     showgrid="false"
+     id="namedview4622"
+     inkscape:window-height="1028"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4596">
+    <style
+       id="style4594" />
+  </defs>
+  <g
+     style="fill:#22b408;fill-opacity:1"
+     data-name="Capa 2"
+     id="Capa_2">
+    <g
+       style="fill:#22b408;fill-opacity:1"
+       data-name="Capa 1"
+       id="Capa_1-2">
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4598"
+         d="M68.93,36A1.13,1.13,0,0,0,67.82,35V29.39A3.39,3.39,0,0,0,64.43,26H63.3V21.48A2.26,2.26,0,0,0,61,19.22H57.81L55.37,1a1.12,1.12,0,0,0-1.12-1H15.82A1.14,1.14,0,0,0,14.7,1L12.27,19.22H9a2.26,2.26,0,0,0-2.26,2.26V26H5.65a3.39,3.39,0,0,0-3.39,3.39V35A1.13,1.13,0,0,0,1.15,36L0,42.77a1.08,1.08,0,0,0,.25.91,1.1,1.1,0,0,0,.86.4H5.65a1.1,1.1,0,0,0,.86-.4,1.08,1.08,0,0,0,.25-.91L5.63,36A1.13,1.13,0,0,0,4.52,35V29.39a1.14,1.14,0,0,1,1.13-1.13H6.78v4.52A2.26,2.26,0,0,0,9,35h1.12L5.66,68.8a1.15,1.15,0,0,0,.27.89,1.13,1.13,0,0,0,.85.39H63.3a1.13,1.13,0,0,0,.85-.39,1.15,1.15,0,0,0,.27-.89L59.92,35H61a2.26,2.26,0,0,0,2.26-2.26V28.26h1.13a1.14,1.14,0,0,1,1.13,1.13V35a1.14,1.14,0,0,0-1.12.94l-1.13,6.79a1.12,1.12,0,0,0,.26.91,1.09,1.09,0,0,0,.86.4H69a1.1,1.1,0,0,0,.86-.4,1.08,1.08,0,0,0,.25-.91ZM2.46,41.82l.76-4.52h.34l.76,4.52Zm53.06-22.6H54.11l-2-17h1.13ZM26.65,6.87,27,2.26H30.5l-.28,17h-12l2-17h4.55L24.4,6.68Zm6.11-4.61h1.15v17H32.48Zm3.41,0h1.15l.28,17H36.17Zm3.69,17-.28-17H43l.39,4.61,2.25-.19-.37-4.42h4.55l2,17Zm-23-17h1.13l-2,17H14.55ZM12.44,35h1.68L10.3,67.82H8.07Zm11.39,5.75L24.31,35H30l-.54,32.78H21.57l.37-4.38-2.25-.19-.38,4.57H12.57L16.4,35H22l-.47,5.56ZM45.77,35l.48,5.75,2.25-.19L48,35h5.64l3.83,32.78H50.77l-.38-4.57-2.25.19.36,4.38H40.67L40.13,35Zm-7.9,0,.54,32.78H36.17V35Zm-4,32.78H31.67L32.21,35h1.7Zm28.1,0H59.78L56,35h1.68Zm-53-35V21.48H61v11.3Zm56.72,9,.76-4.52h.34l.76,4.52Z" />
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4600"
+         d="M23.65,15.68,24,11.21l2.25.18-.37,4.48Z"
+         class="cls-1" />
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4602"
+         d="M20.85,49.57l.37-4.5,2.25.19-.37,4.5Z"
+         class="cls-1" />
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4604"
+         d="M20.09,58.69l.38-4.52,2.25.19-.37,4.52Z"
+         class="cls-1" />
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4606"
+         d="M43.82,11.41l2.26-.18.37,4.47-2.25.19Z"
+         class="cls-1" />
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4608"
+         d="M46.64,45.3l2.26-.19.37,4.5L47,49.79Z"
+         class="cls-1" />
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4610"
+         d="M47.41,54.4l2.25-.19L50,58.73l-2.26.18Z"
+         class="cls-1" />
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4612"
+         d="M21.48,23.74h-9a1.13,1.13,0,0,0-1.13,1.13v4.52a1.14,1.14,0,0,0,1.13,1.13h9.05a1.14,1.14,0,0,0,1.13-1.13V24.87a1.13,1.13,0,0,0-1.13-1.13Zm-1.13,4.52H13.56V26h6.79Z"
+         class="cls-1" />
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4614"
+         d="M57.65,23.74h-9a1.13,1.13,0,0,0-1.13,1.13v4.52a1.14,1.14,0,0,0,1.13,1.13h9a1.14,1.14,0,0,0,1.13-1.13V24.87a1.13,1.13,0,0,0-1.13-1.13Zm-1.13,4.52H49.73V26h6.79Z"
+         class="cls-1" />
+      <path
+         style="fill:#22b408;fill-opacity:1"
+         id="path4616"
+         d="M39.56,23.74h-9a1.12,1.12,0,0,0-1.13,1.13v4.52a1.13,1.13,0,0,0,1.13,1.13h9a1.14,1.14,0,0,0,1.13-1.13V24.87a1.13,1.13,0,0,0-1.13-1.13Zm-1.13,4.52H31.65V26h6.78Z"
+         class="cls-1" />
+    </g>
+  </g>
+</svg>

@@ -30,21 +30,37 @@ angular
       //$scope.obras = data;
 
       var selects = {
-        comunas: d3
+        jurisdicciones: d3
           .keys(
             d3
               .nest()
               .key(function(d) {
-                return d.comuna;
+                return d.jurisdiccion;
               })
               .map(
                 data.filter(function(d) {
-                  return d.comuna !== null;
+                  return d.jurisdiccion!== null;
                 })
               )
           )
           .map(function(c) {
-            return { id: c.trim(), title: "Comuna " + c };
+            return { id: c.trim(), title: c };
+          }),
+        periodos: d3
+          .keys(
+            d3
+              .nest()
+              .key(function(d) {
+                return d.periodo;
+              })
+              .map(
+                data.filter(function(d) {
+                  return d.periodo!== null;
+                })
+              )
+          )
+          .map(function(c) {
+            return { id: c.trim(), title: c };
           }),
         etapas: d3
           .keys(
@@ -104,7 +120,8 @@ angular
           })
       };
 
-      selects.comunas.unshift({ id: "", title: $scope.i18n.all });
+      selects.jurisdicciones.unshift({ id: "", title: $scope.i18n.all2 });
+      selects.periodos.unshift({ id: "", title: $scope.i18n.all2 });
       selects.etapas.unshift({ id: "", title: $scope.i18n.all });
       selects.areas.unshift({ id: "", title: $scope.i18n.all });
       selects.tipos.unshift({ id: "", title: $scope.i18n.all });
@@ -143,17 +160,27 @@ angular
         return _.some(data, function(d) { return d[attr] })
       };
 
-      if (dataHasAttribute('comuna')) {
+      if (dataHasAttribute('jurisdiccion')) {
         $scope.cols.push({
-          field: "comuna",
-          title: "Comuna",
-          filter: { comuna: "select" },
-          filterData: selects.comunas,
+          field: "jurisdiccion",
+          title: "Departamento",
+          filter: { jurisdiccion: "select" },
+          filterData: selects.jurisdicciones,
           show: true,
-          /*sortable: "comuna",*/
+          sortable: false,
           getValue: renderNormalValue
         });
       }
+
+      $scope.cols.push({
+          field: "periodo",
+          title: "Periodo",
+          filter: { periodo: "select" },
+          filterData: selects.periodos,
+          show: true,
+          /*sortable: "nombre",*/
+          getValue: renderNormalValue
+      });
 
       $scope.cols.push({
           field: "nombre",
@@ -262,9 +289,9 @@ angular
 
       $scope.tableParams = new NgTableParams(
         {
-          sorting: { comuna: "asc" },
+          sorting: { jurisdiccion: "asc" },
           filter: {
-            comuna: "",
+            jurisdiccion: "",
             etapa: "",
             tipo: "",
             monto_slug: "",
@@ -281,7 +308,7 @@ angular
 
       var showCols = {
         lg: [
-          "comuna",
+          "jurisdiccion",
           "nombre",
           "area_responsable",
           "licitacion_empresa",
@@ -290,7 +317,7 @@ angular
           "link_interno"
         ],
         md: [
-          "comuna",
+          "jurisdiccion",
           "nombre",
           "area_responsable",
           "licitacion_empresa",
@@ -298,7 +325,7 @@ angular
           "monto_contrato",
           "link_interno"
         ],
-        sm: ["comuna", "nombre", "etapa", "monto_contrato", "link_interno"],
+        sm: ["jurisdiccion", "nombre", "etapa", "monto_contrato", "link_interno"],
         xs: ["nombre", "etapa", "monto_contrato", "link_interno"]
       };
 
